@@ -11,7 +11,8 @@ The goal of this project is to perform data analytics on Uber data using various
 
 # What I Learned?
 * Whole project of Tutorial was based on [GCP](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/tree/main?tab=readme-ov-file), Here, I implemented whole project on [Azure].
-* Hands On Experinece with [Azure], [Azure Storage Account], [Azure SQL], [VM], [Mage-AI], [PowerBI]
+* Hands On Experinece with [Azure], [Azure Storage Account], [Azure SQL], [VM], [Mage-AI], [PowerBI].
+* Designing Dashboard.
 * Challenges Faced
   *   Mage-AI Code Deployment and Pipeline Errors
   *   VM Setup & Dependencies Download Error
@@ -43,6 +44,11 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ## Data Model
 ![Data Model](https://github.com/manthan-ladva/DE-Uber-Analysis-Azure/blob/main/diagrams/uber-de.png)
+
+<hr/>
+
+## PowerBI Dashboard Glimpse
+![Dashboard](https://github.com/manthan-ladva/DE-Uber-Analysis-Azure/blob/main/dashboards/uber_dashboard.jpg)
 
 
 
