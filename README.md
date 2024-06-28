@@ -14,7 +14,7 @@ The goal of this project is to perform data analytics on Uber data using various
 * Hands On Experinece with [Azure], [Azure Storage Account], [Azure SQL], [VM], [Mage-AI], [PowerBI].
 * End-to-End Pipeline with [Mage-AI].
 * Designing Dashboard.
-* Challenges Faced
+* Challenges Overcame
   *   Mage-AI Code Deployment and Pipeline Errors
   *   VM Setup & Dependencies Download Error
 
