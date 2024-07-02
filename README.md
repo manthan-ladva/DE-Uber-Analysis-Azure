@@ -54,11 +54,11 @@ The goal of this project is to perform data analytics on Uber data using various
 
 
 [Python]:https://www.python.org/
-[PowerBI]:https://powerbi.microsoft.com/en-us/,
-[R]:https://www.r-project.org/,
-[VSCode]:https://code.visualstudio.com/,
-[Jupyter]:https://jupyter.org/,
-[Mage-AI]:https://www.mage.ai/,
+[PowerBI]:https://powerbi.microsoft.com/en-us/
+[R]:https://www.r-project.org/
+[VSCode]:https://code.visualstudio.com/
+[Jupyter]:https://jupyter.org/
+[Mage-AI]:https://www.mage.ai/
 [Azure Storage Account]:https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/
 [VM]:https://azure.microsoft.com/en-in/products/virtual-machines/
 [Azure SQL]:https://azure.microsoft.com/en-in/products/azure-sql/database/
