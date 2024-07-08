@@ -9,7 +9,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 <hr/>
 
-# What I Learned?
+# What Did I Learned?
 * Whole project of Tutorial was based on [GCP](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/tree/main?tab=readme-ov-file), Here, I implemented whole project on [Azure].
 * Hands On Experinece with [Azure], [Azure Storage Account], [Azure SQL], [VM], [Mage-AI], [PowerBI].
 * End-to-End Pipeline with [Mage-AI].
