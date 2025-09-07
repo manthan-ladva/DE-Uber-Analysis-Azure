@@ -21,18 +21,18 @@ The goal of this project is to perform data analytics on Uber data using various
 <hr/>
 
 ## Tools Used
-[<img align="left" alt="Python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][Python]
-[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][Jupyter]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
+[<img align="left" alt="Python" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/python.png" />][Python]
+[<img align="left" alt="Jupyter" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/jupyter_notebook.png" />][Jupyter]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_storage_account.webp"/>][Azure Storage Account]
 <br/>
 <br/>
-[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][VM]
+[<img align="left" alt="VM" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_vm.jpg"/>][VM]
 [<img align="left" alt="MageAi" width="33px" src="https://miro.medium.com/v2/resize:fit:1200/1*BLMkN_JD4e--TAUOqaVf6A.png"/>][Mage-AI]
-[<img align="left" alt="Azure SQL" width="25px" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png"/>][Azure SQL]
+[<img align="left" alt="Azure SQL" width="35px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_sql_server.webp"/>][Azure SQL]
 <br/>
 <br/>
-[<img align="left" alt="a" width="55px" src="https://www.business-central-app.it/wp-content/uploads/2021/12/logo-azure.png"/>][Azure]
-[<img align="left" alt="PowerBI" width="33px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEP5WbA4TSdCk6mto1DGXufJcV4KXpS5SRePtn4fGDDdR_zd8UmmtnbWg-DLztcyHDWo"/>][PowerBI]
+[<img align="left" alt="a" width="35px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure.png"/>][Azure]
+[<img align="left" alt="PowerBI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/powerbi.jpeg"/>][PowerBI]
 <br/>
 <br/>
 <hr/>
